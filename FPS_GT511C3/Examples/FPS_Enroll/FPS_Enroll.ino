@@ -1,4 +1,4 @@
-/* 
+/*****************************************************************
 	FPS_Enroll.ino - Library example for controlling the GT-511C3 Finger Print Scanner (FPS)
 	Created by Josh Hawley, July 23rd 2013
 	Licensed for non-commercial use, must include this license message
