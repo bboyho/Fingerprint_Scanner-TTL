@@ -2,11 +2,15 @@ Fingerprint_Scanner-TTL
 =======================
 
 [![FingerPrint Scanner](https://dlnmh9ip6v2uc.cloudfront.net/images/products/1/1/7/9/2/11792-01_medium.jpg)  
-*Fingerprint Scanner - TTL (GT-511C3)(SEN-11792)*](https://www.sparkfun.com/products/11792)
+*Fingerprint Scanner - TTL*](https://www.sparkfun.com/products/11792)
 
-This is a great fingerprint module from ADH-Tech that communicates over TTL Serial so you can easily embed it into your next project. 
+This is a great fingerprint module from ADH-Tech that communicates over 3.3V TTL Serial so you can easily embed it into your next project. 
 
-This repository contains example code to work with it. 
+This repository contains Arduino example code to work with it. This code has been tested with these models:
+ 
+Fingerprint Scanner - TTL (GT-511C3)(SEN-11792)[ [https://www.sparkfun.com/products/11792](https://www.sparkfun.com/products/11792) ]
+
+Fingerprint Scanner - 5V TTL (GT-511C1R)(SEN-13007) [ [https://www.sparkfun.com/products/13007](https://www.sparkfun.com/products/13007) ]
 
 Repository Contents
 -------------------
@@ -19,5 +23,5 @@ The original library license is as follows:
 
 "	Created by Josh Hawley, July 23rd 2013
 	Licensed for non-commercial use, must include this license message
-	basically, Feel free to hack away at it, but just give me credit for my work =)
+	basically, Feel free to hack away at it, but just give me credit for my work. =)
 	TLDR; Wil Wheaton's Law "
