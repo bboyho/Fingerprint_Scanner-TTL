@@ -12,11 +12,16 @@ Fingerprint Scanner - TTL (GT-511C1R)(SEN-13007) [ [https://www.sparkfun.com/pro
 
 Repository Contents
 -------------------
+
+**<>Code**
+
 *  **/FPS_GT511C3** - Arduino Library to interface with the sensor.
 *  **/FPS_GT511C3/Examples/FPS_Blink** - Blinks FPS blue LED.
 *  **/FPS_GT511C3/Examples/FPS_Enroll** - Enroll fingerprint using FPS.
 *  **/FPS_GT511C3/Examples/FPS_IDFinger** - Attempt to identify previously enrolled fingerprint saved in its database.
 *  **/FPS_GT511C3/Examples/FPS_Serial_Passthrough** - Basic serial passthrough code that sets up a software serial port to pass data between the Fingerprint Scanner and the SDK Demo Software (SDK_Demo.exe) provided by ADH-Tech.
+
+**Wiki**
 
 For information about connecting to the fingerprint scanner and how to use it with Hawley's FPS_GT511C3 library, try looking at the Wiki pages:
 
