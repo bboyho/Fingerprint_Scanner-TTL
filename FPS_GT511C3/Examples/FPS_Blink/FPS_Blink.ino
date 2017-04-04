@@ -8,6 +8,13 @@
         Description: This simple sketch turns the LED on and off similar to the Arduino blink sketch.
 	It is used to show that communications are working.
 	
+	This code should work with the any model of ADH-Tech's FPS as long as
+	you are within the minimum logic level threshold for the FPS serial UART.
+	This code has been tested with these models:
+ 
+              GT-511C3  [ https://www.sparkfun.com/products/13007 ]
+              GT-511C1R [ https://www.sparkfun.com/products/13007 ]
+	
 */
 
 #include "FPS_GT511C3.h"
