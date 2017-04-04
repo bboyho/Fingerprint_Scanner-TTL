@@ -27,14 +27,3 @@ The original library license is as follows:
 	Licensed for non-commercial use, must include this license message
 	basically, Feel free to hack away at it, but just give me credit for my work. =)
 	TLDR; Wil Wheaton's Law "
-
-Resources and Going Further
--------------------
-
-Raspberry Pi Example Code
-
-There’s a Raspberry Pi library in Python for the ADH-Tech's fingerprint scanner. Try looking in this GitHub repository = > [https://github.com/QuickGroup/pyGT511C3](https://github.com/QuickGroup/pyGT511C3)
-
-Node.js Example Code
-
-There’s an example in Node.js with an API. Try looking at this GitHub repository => [https://github.com/the-AjK/GT-511C3](https://github.com/the-AjK/GT-511C3) .
