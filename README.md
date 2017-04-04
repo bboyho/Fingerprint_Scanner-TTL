@@ -14,7 +14,7 @@ Repository Contents
 -------------------
 * **/FPS_GT511C3** - Arduino Library to interface with the sensor.
 *  **/FPS_GT511C3/Examples/FPS_Blink** - Blinks FPS blue LED.
-*  **/FPS_GT511C3/Examples/FPS_Enroll** - Enroll Fingerprint using FPS.
+*  **/FPS_GT511C3/Examples/FPS_Enroll** - Enroll fingerprint using FPS.
 *  **/FPS_GT511C3/Examples/FPS_IDFinger** - Attempt to identify previously enrolled fingerprint saved in its database.
 *  **/FPS_GT511C3/Examples/FPS_Serial_Passthrough** - Basic serial passthrough code that sets up a software serial port to pass data between the Fingerprint Scanner and the SDK Demo Software (SDK_Demo.exe) provided by ADH-Tech.
 
