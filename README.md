@@ -23,12 +23,13 @@ Repository Contents
 
 * **Wiki**
 
-	- [Home](https://github.com/bboyho/Fingerprint_Scanner-TTL/wiki) - Includes suggested readings before getting started with the FPS.
-	- [Basic Serial UART Hookup](https://github.com/bboyho/Fingerprint_Scanner-TTL/wiki/Basic-Serial-UART-Hookup) - Basic FPS pinout and how to connect to it using an FTDI. 
-	- [Example Code](https://github.com/bboyho/Fingerprint_Scanner-TTL/wiki/Example-Code) - Explanation the Arduino example code and how to connect using a 5V Arduino microcontroller.
-	- [Firmware Overview](https://github.com/bboyho/Fingerprint_Scanner-TTL/wiki/Firmware-Overview) - Explanation of what you will see when using the FPS_GT511C3 library on an Arduino. 
-	- [Resources and Going Further](https://github.com/bboyho/Fingerprint_Scanner-TTL/wiki/Resources-and-Going-Further) - Additional tutorials and example projects.
-	- [Tech Support Tips, Troubleshooting & Common Issues](https://github.com/bboyho/Fingerprint_Scanner-TTL/wiki/Tech-Support-Tips,--Troubleshooting,-&--Common-Issues) - Common issues that you might run into and methods to troubleshoot.
+	- [Home](https://github.com/bboyho/Fingerprint_Scanner-TTL/wiki)
+	- [Basic Serial UART Hookup](https://github.com/bboyho/Fingerprint_Scanner-TTL/wiki/Basic-Serial-UART-Hookup)
+	- [Example Code](https://github.com/bboyho/Fingerprint_Scanner-TTL/wiki/Example-Code)
+	- [Firmware Overview](https://github.com/bboyho/Fingerprint_Scanner-TTL/wiki/Firmware-Overview)
+	- [Resources and Going Further](https://github.com/bboyho/Fingerprint_Scanner-TTL/wiki/Resources-and-Going-Further)
+	- [Tech Support Tips, Troubleshooting & Common Issues](https://github.com/bboyho/Fingerprint_Scanner-TTL/wiki/Tech-Support-Tips,--Troubleshooting,-&--Common-Issues)
+	
 License Information
 -------------------
 
