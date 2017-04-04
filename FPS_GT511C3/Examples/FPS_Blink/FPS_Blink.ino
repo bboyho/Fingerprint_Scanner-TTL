@@ -7,9 +7,6 @@
 
         Description: This simple sketch turns the LED on and off similar to the Arduino blink sketch.
 	It is used to show that communications are working.
-
-        Modified by By: Ho Yun "Bobby" Chan @ SparkFun Electronics
-        Modified Date: April 3rd, 2017
 	
 */
 
