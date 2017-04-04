@@ -13,7 +13,7 @@ Fingerprint Scanner - TTL (GT-511C1R)(SEN-13007) [ [https://www.sparkfun.com/pro
 Repository Contents
 -------------------
 
-**<>Code**
+**<> Code**
 
 *  **/FPS_GT511C3** - Arduino Library to interface with the sensor.
 *  **/FPS_GT511C3/Examples/FPS_Blink** - Blinks FPS blue LED.
