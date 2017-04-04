@@ -10,7 +10,7 @@
  *  you are within the minimum logic level threshold for the FPS serial UART.
  *  This code has been tested with these models:
  *
- *            GT-511C3  [ https://www.sparkfun.com/products/13007 ]
+ *            GT-511C3  [ https://www.sparkfun.com/products/11792 ]
  *            GT-511C1R [ https://www.sparkfun.com/products/13007 ]
  *
  *  A WORD OF CAUTION: It is recommended to use a 3.3V FTDI basic breakout
