@@ -118,7 +118,7 @@ void Enroll()
 				iret = fps.Enroll3();
 				if (iret == 0)
 				{
-					Serial.println("Enrolling Successfull");
+					Serial.println("Enrolling Successful");
 				}
 				else
 				{
