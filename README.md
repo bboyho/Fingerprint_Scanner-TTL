@@ -25,8 +25,9 @@ Repository Contents
 
 	- [Home](https://github.com/bboyho/Fingerprint_Scanner-TTL/wiki)
 	- [Basic Serial UART Hookup](https://github.com/bboyho/Fingerprint_Scanner-TTL/wiki/Basic-Serial-UART-Hookup)
-	- [Example Code](https://github.com/bboyho/Fingerprint_Scanner-TTL/wiki/Example-Code)
+	- [Example Code for Arduino](https://github.com/bboyho/Fingerprint_Scanner-TTL/wiki/Example-Code)
 	- [Firmware Overview](https://github.com/bboyho/Fingerprint_Scanner-TTL/wiki/Firmware-Overview)
+	- [FPS Experiments](https://github.com/bboyho/Fingerprint_Scanner-TTL/wiki/FPS-Experiments)
 	- [Resources and Going Further](https://github.com/bboyho/Fingerprint_Scanner-TTL/wiki/Resources-and-Going-Further)
 	- [Tech Support Tips, Troubleshooting & Common Issues](https://github.com/bboyho/Fingerprint_Scanner-TTL/wiki/Tech-Support-Tips,--Troubleshooting,-&--Common-Issues)
 	
