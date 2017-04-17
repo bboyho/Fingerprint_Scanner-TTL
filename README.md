@@ -8,7 +8,7 @@ This is a great fingerprint module from ADH-Tech that communicates over 3.3V TTL
  
 Fingerprint Scanner - TTL (GT-511C3) [ SEN-11792 - [https://www.sparkfun.com/products/11792](https://www.sparkfun.com/products/11792) ]
 
-Fingerprint Scanner - TTL (GT-511C1R)[SEN-13007 - [https://www.sparkfun.com/products/13007](https://www.sparkfun.com/products/13007) ]
+Fingerprint Scanner - TTL (GT-511C1R)[ SEN-13007 - [https://www.sparkfun.com/products/13007](https://www.sparkfun.com/products/13007) ]
 
 Repository Contents
 -------------------
