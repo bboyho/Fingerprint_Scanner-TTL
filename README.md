@@ -1,14 +1,15 @@
 Fingerprint_Scanner-TTL
 =======================
 
-[![FingerPrint Scanner](https://dlnmh9ip6v2uc.cloudfront.net/images/products/1/1/7/9/2/11792-01_medium.jpg)  
-*Fingerprint Scanner - TTL*](https://www.sparkfun.com/products/11792)
+<table class="table table-hover table-striped table-bordered">
+<tr><td><a href="https://www.sparkfun.com/products/11792"><div align="center"><img src="https://cdn.sparkfun.com//assets/parts/8/0/7/3/11792-04a.jpg" title="Fingerprint Scanner - TTL (GT-511C3)
+"></div></a></td>
+<td><a href="https://www.sparkfun.com/products/13007"><div align="center"><img src="https://cdn.sparkfun.com//assets/parts/9/9/7/2/13007-02.jpg" title="Fingerprint Scanner - TTL (GT-511C1R)"></div></a></td>
+<tr><td>Fingerprint Scanner - TTL (GT-511C3) [ SEN-11792 - https://www.sparkfun.com/products/11792 ]</td><td>
+Fingerprint Scanner - TTL (GT-511C1R)[ SEN-13007 - https://www.sparkfun.com/products/13007 ]</td></tr>
+</table>
 
 This is a great fingerprint module from ADH-Tech that communicates over 3.3V TTL Serial so you can easily embed it into your next project. This repository contains Arduino example code to work with it. This code has been tested with these models:
- 
-Fingerprint Scanner - TTL (GT-511C3) [ SEN-11792 - [https://www.sparkfun.com/products/11792](https://www.sparkfun.com/products/11792) ]
-
-Fingerprint Scanner - TTL (GT-511C1R)[ SEN-13007 - [https://www.sparkfun.com/products/13007](https://www.sparkfun.com/products/13007) ]
 
 Repository Contents
 -------------------
