@@ -20,7 +20,7 @@ Repository Contents
 	- **/FPS_GT511C3/Examples/FPS_Blink** - Blinks the blue LED.
 	- **/FPS_GT511C3/Examples/FPS_Enroll** - Enroll a fingerprint.
 	- **/FPS_GT511C3/Examples/FPS_IDFinger** - Attempt to identify the fingerprint against the local database.
-	- **/FPS_GT511C3/Examples/FPS_Serial_Passthrough** - Basic serial passthrough code that sets up a software serial port to pass data between the Fingerprint Scanner and the SDK Demo Software (SDK_Demo.exe) provided by ADH-Tech.
+	- **/FPS_GT511C3/Examples/FPS_Serial_Passthrough** - Basic serial passthrough code that sets up a software serial port to pass data between the Fingerprint Scanner and ADH-Tech's SDK Demo Software (SDK_Demo.exe).
 
 Documentation
 -------------------
