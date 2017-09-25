@@ -20,17 +20,12 @@ Repository Contents
 	- **/FPS_GT511C3/Examples/FPS_Blink** - Blinks the blue LED.
 	- **/FPS_GT511C3/Examples/FPS_Enroll** - Enroll a fingerprint.
 	- **/FPS_GT511C3/Examples/FPS_IDFinger** - Attempt to identify the fingerprint against the local database.
-	- **/FPS_GT511C3/Examples/FPS_Serial_Passthrough** - Basic serial passthrough code that sets up a software serial port to pass data between the Fingerprint Scanner and the SDK Demo Software (SDK_Demo.exe) provided by ADH-Tech.
+	- **/FPS_GT511C3/Examples/FPS_Serial_Passthrough** - Basic serial passthrough code that sets up a software serial port to pass data between the Fingerprint Scanner and ADH-Tech's SDK Demo Software (SDK_Demo.exe).
 
-* **Wiki**
+Documentation
+-------------------
 
-	- [Home](https://github.com/bboyho/Fingerprint_Scanner-TTL/wiki)
-	- [Basic Serial UART Hookup](https://github.com/bboyho/Fingerprint_Scanner-TTL/wiki/Basic-Serial-UART-Hookup)
-	- [Example Code for Arduino](https://github.com/bboyho/Fingerprint_Scanner-TTL/wiki/Example-Code)
-	- [Firmware Overview](https://github.com/bboyho/Fingerprint_Scanner-TTL/wiki/Firmware-Overview)
-	- [FPS Experiments](https://github.com/bboyho/Fingerprint_Scanner-TTL/wiki/FPS-Experiments)
-	- [Resources and Going Further](https://github.com/bboyho/Fingerprint_Scanner-TTL/wiki/Resources-and-Going-Further)
-	- [Tech Support Tips, Troubleshooting & Common Issues](https://github.com/bboyho/Fingerprint_Scanner-TTL/wiki/Tech-Support-Tips,--Troubleshooting,-&--Common-Issues)
+ - [Hookup Guide](https://learn.sparkfun.com/tutorials/fingerprint-scanner-hookup-guide)
 	
 License Information
 -------------------
